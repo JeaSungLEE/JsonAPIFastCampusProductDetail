@@ -8,9 +8,9 @@
         "name": "범퍼 강화 젤리 가죽 휴대폰 케이스",
         "discountPercent": 53,
         "originalPrice": 300000,
-        "discountPrice": 139000
+        "discountPrice": 139000,
+        "rate": 4,
     },
-    "rate": 4,
     "option": {
         "type": "색상",
         "name": "코랄",
@@ -20,6 +20,5 @@
         "https://picsum.photos/id/134/500/500",
         "https://picsum.photos/id/135/500/500",
         "https://picsum.photos/id/136/500/500",
-        "https://picsum.photos/id/137/500/500"
     ]
 }
