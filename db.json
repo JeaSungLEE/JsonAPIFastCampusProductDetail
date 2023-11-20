@@ -11,9 +11,9 @@
         "name": "코랄",
         "image": "https://picsum.photos/id/96/100/100"
     }
-    "discountPercent": 53
-    "originalPrice": 300000
-    "discountPrice": 139000
+    "discountPercent": 53,
+    "originalPrice": 300000,
+    "discountPrice": 139000,
     "detailImages": [
         "https://picsum.photos/id/134/500/500",
         "https://picsum.photos/id/135/500/500",
